@@ -1,0 +1,6 @@
+{
+  "HI": {
+    "description": "someWords",
+    "other": "Howdy, {{.Name}}"
+  }
+}

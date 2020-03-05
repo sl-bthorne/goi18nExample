@@ -1,0 +1,7 @@
+{
+  "HI": {
+    "description": "someWords",
+    "hash": "sha1-9a4316f1afbf4735e3371389dff4cd5f6195fc26",
+    "other": "Hola, {{.Name}}"
+  }
+}
